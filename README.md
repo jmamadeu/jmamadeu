@@ -9,3 +9,10 @@ Developer looking for the next level.
 I am a developer passionate, fan and appreciative by the area, i always try to learn new things, and more than learning I usually put it into practice.
 
 Mobile and web development are my focus today.
+
+## Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=jmamadeu&show_icons=true" alt="jmamadeu-status" />
+<p><img src="https://komarev.com/ghpvc/?username=jmamadeu" alt="jmamadeu" /> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmamadeu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
