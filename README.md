@@ -12,7 +12,13 @@ Mobile and web development are my focus today.
 
 ## Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=jmamadeu&show_icons=true" alt="jmamadeu-status" />
-<p><img src="https://komarev.com/ghpvc/?username=jmamadeu" alt="jmamadeu" /> </p>
+<div align="center">
+  <p><img src="https://komarev.com/ghpvc/?username=jmamadeu" alt="jmamadeu" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=jmamadeu&show_icons=true" alt="jmamadeu-status" />  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmamadeu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmamadeu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
