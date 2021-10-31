@@ -3,12 +3,14 @@
 ## 🚀 About Me
 I'm a full stack developer...
 
-
 ## 🛠 Skills
 - Typescript
 - React (NextJS, Vite)
 - React Native / Expo
 - NodeJS (Express / NestJS)
+- Restful API / GraphQL
+- SQL
+- MongoDb / PostgreSQL / MySQL
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@jmamadeu-00acee?style=flat-square&labelColor=white&logo=twitter&logoColor=00acee&link=https://twitter.com/jmamadeu)](https://twitter.com/jmamadeu)
