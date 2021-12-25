@@ -5,10 +5,10 @@ Previously I have worked at some companies where I developed some API's, web and
 
 ## About Me
 
-- 🔭 I’m currently working on: My new app, that's basically a recipe app to you save, share and find great food recipes. [see here](https://github.com/jmamadeu/sepicer)
-- 🤔 What I want to learn next: Blockchain, Start Contracts, Solidity
-- 📫 How to reach me: [Twitter](https://twitter.com/jmamadeu) or [Linkedin](https://www.linkedin.com/in/jmamadeu/) the links are above.
-- 😄 Pronouns: he/his
+- 🔭 I’m currently working on: My new app, that's basically a recipe app to you save, share and find great food recipes. [see here](https://github.com/jmamadeu/sepicer).
+- 🤔 What I want to learn next: Blockchain, Start Contracts, Solidity.
+- 📫 How to reach me: [Twitter](https://twitter.com/jmamadeu) or [Linkedin](https://www.linkedin.com/in/jmamadeu/).
+- 😄 Pronouns: he/his.
 
 ## 🔧 Tools I Like To Use
 
