@@ -13,7 +13,7 @@ Previously I have worked at some companies where I developed some API's, web and
 ## 🔧 Tools I Like To Use
 
 - [React](https://reactjs.org/)
-- [React Native (Expo) ](https://expo.dev/)
+- [React Native (Expo) ](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Graphql](https://graphql.org/)
 - [NodeJS](https://nodejs.org/en/)
