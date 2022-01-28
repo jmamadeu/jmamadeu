@@ -1,6 +1,6 @@
 # João Amadeu
 
-👋 Hi, I'm João Amadeu. I'm a software developer at [Toptal](https://www.toptal.com/). 
+👋 Hi, I'm João Amadeu. I'm a Software Engineer, at [Toptal](https://www.toptal.com/). 
 Previously I have worked at some companies where I developed some API's, web and mobile apps used by the insurance, blockchain and financial industries.
 
 ## About Me
