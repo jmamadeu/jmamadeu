@@ -1,11 +1,9 @@
 # João Amadeu
 
-👋 Hi, I'm João Amadeu. I'm a Software Engineer, at [Toptal](https://www.toptal.com/). 
-Previously I have worked at some companies where I developed some API's, web and mobile apps used by the insurance, blockchain and financial industries.
+👋 Hi, I'm João Amadeu. I've been working in web development for almost four years. My expertise lies in developing RESTful and GraphGL APIs, web and mobile apps using React, React Native, Node.js, TypeScript, and also I'm a Blockchain enthusiast. These are used by the insurance, project management, delivery management, blockchain, and financial industries. An intentional communicator and keen collaborator, I'm is comfortable leading and being led, and eager to jump into solving challenging problems.
 
 ## About Me
 
-- 🔭 I’m currently working on: My new app, that's basically a recipe app to you save, share and find great food recipes. [see here](https://github.com/jmamadeu/sepicer).
 - 🤔 What I want to learn next: Blockchain, Smart Contracts, Solidity.
 - 📫 How to reach me: [Twitter](https://twitter.com/jmamadeu) or [Linkedin](https://www.linkedin.com/in/jmamadeu/).
 - 😄 Pronouns: he/his.
