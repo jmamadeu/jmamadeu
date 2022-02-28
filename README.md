@@ -1,6 +1,6 @@
 # João Amadeu
 
-👋 Hi, I'm João Amadeu. I've been working in web development for almost four years. My expertise lies in developing RESTful and GraphGL APIs, web and mobile apps using React, React Native, Node.js, TypeScript, and also I'm a Blockchain enthusiast. These are used by the insurance, project management, delivery management, blockchain, and financial industries. An intentional communicator and keen collaborator, I'm is comfortable leading and being led, and eager to jump into solving challenging problems.
+👋 Hi, I'm João Amadeu. I've been working in web development for almost four years. My expertise lies in developing RESTful and GraphGL APIs, web and mobile apps using React, React Native, Node.js, TypeScript, and also I'm a Blockchain enthusiast. These are used by the insurance, project management, delivery management, blockchain, and financial industries. An intentional communicator and keen collaborator, I'm comfortable leading and being led, and eager to jump into solving challenging problems.
 
 ## About Me
 
