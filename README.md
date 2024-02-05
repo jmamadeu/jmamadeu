@@ -4,15 +4,10 @@
 
 ## About Me
 
-- 🤔 What I want to learn next: Blockchain, Smart Contracts, Solidity.
 - 📫 How to reach me: [Twitter](https://twitter.com/jmamadeu) or [Linkedin](https://www.linkedin.com/in/jmamadeu/).
-- 😄 Pronouns: he/his.
 
 ## 🔧 Tools I Like To Use
 
-- [React](https://reactjs.org/)
-- [React Native (Expo) ](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Graphql](https://graphql.org/)
-- [NodeJS](https://nodejs.org/en/)
-- [TailwindCSS](https://tailwindcss.com/)
+- [Rust](https://www.rust-lang.org/)
+- GoLang(https://go.dev/)
