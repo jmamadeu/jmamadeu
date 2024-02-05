@@ -10,4 +10,4 @@
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Rust](https://www.rust-lang.org/)
-- GoLang(https://go.dev/)
+- [GoLang](https://go.dev/)
